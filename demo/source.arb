@@ -1,0 +1,15 @@
+{
+"@@locale": "ru",
+"garage_rent_button": "Арендовать",
+"@garage_rent_button": {
+"description": "Кнопка аренды гаража"
+},
+"item_count_message": "У вас есть {count} предметов",
+"@item_count_message": {
+"description": "Сообщение о количестве предметов"
+},
+"coins_plural": "{count, plural, =0{Нет монет} =1{1 монета} other{{count} монет}}",
+"@coins_plural": {
+"description": "Форматирование монет"
+}
+}

@@ -1,0 +1,18 @@
+{
+  "@@locale": "kk",
+  "garage_rent_button": "Жалға алу",
+  "@garage_rent_button": {
+    "description": "Кнопка аренды гаража",
+    "reviewed_by_human": true
+  },
+  "item_count_message": "Сізде {count} зат бар",
+  "@item_count_message": {
+    "description": "Сообщение о количестве предметов",
+    "reviewed_by_human": true
+  },
+  "coins_plural": "{count, plural, =0{Таңбаша жоқ} =1{1 таңбаша} other{{count} таңбаша}}",
+  "@coins_plural": {
+    "description": "Форматирование монет",
+    "reviewed_by_human": true
+  }
+}
